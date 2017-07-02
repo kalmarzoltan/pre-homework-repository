@@ -20,6 +20,7 @@
 
 ###The Part about *git-example.zip*
 
++ freak the f.kout
 + add user and token to application.properties
 + make immplementation for DefaultGitHubPageCreator.java
 + make more implementations
